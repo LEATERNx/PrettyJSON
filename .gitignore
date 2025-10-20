@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Visual Studio generated folders
+.vs/
+bin/
+obj/
