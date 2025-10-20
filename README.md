@@ -13,20 +13,6 @@ Just paste your JSON, click format, and boom — beautifully indented output!
 
 ---
 
-## 🖼️ Screenshot
-*(Add your app screenshot here)*  
-```bash
-![PrettyJSON Screenshot](screenshot.png)
-🛠️ Installation & Usage
-Clone this repository:
-
-bash
-Kodu kopyala
-git clone https://github.com/LEATERNx/PrettyJSON.git
-Open the project in Visual Studio
-
-Build & Run — you're ready to format!
-
 💡 Example
 Input:
 
@@ -49,12 +35,6 @@ If you have suggestions, feel free to open an issue or submit a PR.
 📜 License
 This project is licensed under the MIT License.
 
-Made with ❤️ by LEATERNx
+LEATERN
 
-yaml
-Kodu kopyala
-
----
-
-Hazırsan bu dosyayı ekleyip push’layalım mı?  
-İstersen adım adım terminal komutlarını da net yazayım.
+[![Riot Account Manager](https://img.youtube.com/vi/VKThxPNSZ3E/hqdefault.jpg)](https://www.youtube.com/watch?v=VKThxPNSZ3E)
