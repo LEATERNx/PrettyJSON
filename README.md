@@ -37,4 +37,9 @@ This project is licensed under the MIT License.
 
 LEATERN
 
+
+[![GitHub Downloads](https://img.shields.io/github/downloads/LEATERNx/PrettyJSON/total?style=for-the-badge&label=PrettyJSON%20DOWNLOADS&color=dc3545&labelColor=3d3d3d)](https://github.com/LEATERNx/PrettyJSON/releases)
+
+
+
 [![Riot Account Manager](https://img.youtube.com/vi/VKThxPNSZ3E/hqdefault.jpg)](https://www.youtube.com/watch?v=VKThxPNSZ3E)
